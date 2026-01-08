@@ -1,0 +1,15 @@
+names:
+- Green Juicy Apple
+- Red Apple
+- Rotten Apple
+- Used Apple
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: apples-ngxie
+  url: https://universe.roboflow.com/computer-vision-obj1q/apples-ngxie/dataset/6
+  version: 6
+  workspace: computer-vision-obj1q
+test: /content/Apples-6/test/images
+train: /content/Apples-6/train/images
+val: /content/Apples-6/valid/images
